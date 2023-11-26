@@ -3,7 +3,7 @@ EfficientNet-B3 model for Tiny ImageNet classification, showcasing precision in 
 # TinyImageNet-EfficientNet-B3
 
 ## Overview
-This repository houses the implementation of EfficientNet-B3 for Tiny ImageNet classification. The project aims to explore the precision and efficiency of the EfficientNet-B3 architecture in the context of the scaled-down Tiny ImageNet dataset.
+This repository houses the implementation of EfficientNet-B3 for Tiny ImageNet classification. The project aims to explore the precision and efficiency of the EfficientNet-B3 architecture in the context of the scaled-down Tiny ImageNet dataset http://cs231n.stanford.edu/tiny-imagenet-200.zip .
 
 ## Key Features
 - **EfficientNet-B3 Model:** Utilizes the state-of-the-art EfficientNet-B3 architecture for image classification.
